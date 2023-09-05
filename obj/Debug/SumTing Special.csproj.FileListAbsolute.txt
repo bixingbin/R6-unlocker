@@ -1,0 +1,38 @@
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\SumTing Special.exe.config
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\SumTing Special.exe
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\SumTing Special.pdb
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\Casbin.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\CsvHelper.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\System.Buffers.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\System.Memory.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\System.Numerics.Vectors.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\System.ValueTuple.xml
+E:\Visual Studio\Projects\SumTing Special\obj\Debug\SumTing Special.csproj.AssemblyReference.cache
+E:\Visual Studio\Projects\SumTing Special\obj\Debug\SumTing Special.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Projects\SumTing Special\obj\Debug\SumTing_Special.Properties.Resources.resources
+E:\Visual Studio\Projects\SumTing Special\obj\Debug\SumTing Special.csproj.GenerateResource.cache
+E:\Visual Studio\Projects\SumTing Special\obj\Debug\SumTing Special.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projects\SumTing Special\obj\Debug\SumTing Special.csproj.CopyComplete
+E:\Visual Studio\Projects\SumTing Special\obj\Debug\SumTing Special.exe
+E:\Visual Studio\Projects\SumTing Special\obj\Debug\SumTing Special.pdb
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\System.Collections.Immutable.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\System.Interactive.Async.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\System.Linq.Async.xml
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\System.Reactive.xml
+E:\Visual Studio\Projects\SumTing Special\obj\Debug\SumTing_Special.MainForm.resources
+E:\Visual Studio\Projects\SumTing Special\obj\Debug\SumTing_Special.UnlockerForm.resources
+E:\Visual Studio\Projects\SumTing Special\obj\Debug\SumTing_Special.SaveMounterForm.resources
+E:\Visual Studio\Projects\SumTing Special\bin\Debug\YamlDotNet.xml
+E:\Visual Studio\Projects\SumTing Special\obj\Debug\SumTing Special.csproj.Fody.CopyLocal.cache
