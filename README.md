@@ -14,11 +14,11 @@ Compile and you are done.
 
 
 Features:
-Save Mounter (Manual) { Only Edits the save with a new save file that you select }
-Save Mounter (Automatic) { Mounts the new save file and Opens in game in offline mode then closes it }
-Skin Unlocker (Mac Spoof) { Upon loading into the game Press your keybind that you selected or press the "Spoof" Button to change your mac, this Bypass the skin check and lets you use any weapon skin that you like }
-Fix Wifi {If you Antivirus Closes the application mid spoof just reopen the tool and press "Fix Wifi" and it will renable your wifi}
-Auto Spoof {Pixal scan, I have not fixed/actually done anything with it. so if you want it fix/make it yourself}
+👾 Save Mounter (Manual) { Only Edits the save with a new save file that you select }
+👾 Save Mounter (Automatic) { Mounts the new save file and Opens in game in offline mode then closes it }
+👾 Skin Unlocker (Mac Spoof) { Upon loading into the game Press your keybind that you selected or press the "Spoof" Button to change your mac, this Bypass the skin check and lets you use any weapon skin that you like }
+👾 Fix Wifi {If you Antivirus Closes the application mid spoof just reopen the tool and press "Fix Wifi" and it will renable your wifi}
+👾 Auto Spoof {Pixal scan, I have not fixed/actually done anything with it. so if you want it fix/make it yourself}
 
 Pictures: 
 
