@@ -94,12 +94,12 @@ namespace SumTing_Special
 
         private void DiscordBtn_Click(object sender, EventArgs e)
         {
-            Process.Start("cmd", "/c start https://discord.com/invite/r4c");
+            //removed for Unknowncheats
         }
 
         private void WebsiteBtn_Click(object sender, EventArgs e)
         {
-            Process.Start("cmd", "/c start https://r4c.store");
+            //removed for Unknowncheats
         }
 
         private void AboutBtn_Click(object sender, EventArgs e)
